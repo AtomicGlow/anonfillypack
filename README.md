@@ -1,4 +1,4 @@
-Filly Pack V0.01
+Filly Pack V0.02
 - Work in Progress
 - Adds Fillies
 - For Some Reason Nitwits don't work right, so Anons need jobs to display the right race.
@@ -12,3 +12,6 @@ Filly Types
 - Swamp: Bat
 - Taiga: Snow Filly
 - Snow: Snow Flly with cute Earmuffs
+
+Changes:
+.02 - Villager tier is now represented by eye color.
