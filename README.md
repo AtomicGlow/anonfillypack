@@ -1,4 +1,14 @@
-# Resource Pack Template
+Filly Pack V0.01
+-Work in Progress
+-Adds Fillies
+-For Some Reason Nitwits don't work right, so Anons need jobs to display the right race.
+-For some reason saddlebags don't work when directly applied to a villager, which would break the pegasi and batponies.
 
-- Use this to start a resource pack, other formats are on seperate branches.
-- Download the pack format version you need from the [releases page](https://github.com/Love-and-Tolerance/Resource-Pack-template/releases/latest). 
+Filly Types
+-Plains: Filly
+-Desert: Saddle Arabian Filly
+-Savanna: Pegasus until I can figure out how to make a good looking Zeeb.
+-Jungle: Pegasus
+-Swamp: Bat
+-Taiga: Snow Pony
+-Snow: Snow Pony with cute Earmuffs
