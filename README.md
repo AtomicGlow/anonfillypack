@@ -1,4 +1,4 @@
-Filly Pack V0.02
+Filly Pack V0.03
 - Work in Progress
 - Adds Fillies
 - For Some Reason Nitwits don't work right, so Anons need jobs to display the right race.
@@ -14,4 +14,5 @@ Filly Types
 - Snow: Snow Flly with cute Earmuffs
 
 Changes:
-.02 - Villager tier is now represented by eye color.
+.03 - Villager tier is now represented by eye color.
+-Anons are now Zombies
