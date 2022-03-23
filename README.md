@@ -1,4 +1,6 @@
-Filly Pack V0.05- Added support for unemployed villagers for future updates to MineLP or if you download this custom release
+Filly Pack V0.05- 
+-Added support for unemployed villagers for future updates to MineLP or if you download this custom release
+-Started Zombie Conversion, Plains and Swamp complete. Feedback wanted.
 https://github.com/AtomicGlow/MineLittlePony/releases/tag/4.4.4
 
 Filly Pack V0.04
