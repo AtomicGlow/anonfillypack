@@ -1,8 +1,12 @@
+Filly Pack V0.05- Added support for unemployed villagers for future updates to MineLP or if you download this custom release
+https://github.com/AtomicGlow/MineLittlePony/releases/tag/4.4.4
+
 Filly Pack V0.04
 - Work in Progress
 - Adds Fillies
 - For Some Reason Nitwits don't work right, so Anons need jobs to display the right race.
 - For some reason saddlebags don't work when directly applied to a villager, which would break the pegasi and batponies.
+- Added Zombies
 
 Filly Types
 - Plains: Filly
@@ -16,5 +20,4 @@ Filly Types
 Changes:
 .03 - Villager tier is now represented by eye color.
 -Anons are now Zombies
-.04 - Added support for unemployed villagers for future updates to MineLP or if you download this custom release
-https://github.com/AtomicGlow/MineLittlePony/releases/tag/4.4.4
+
