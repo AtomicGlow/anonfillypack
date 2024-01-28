@@ -1,4 +1,4 @@
-= Anonfilly Pack - Somehow Not Dead... and Somehow Still WIP =
+= Anonfilly Pack - Somehow Not Dead =
 
 This is an addon pack made for MineLittlePony in order to turn pony villagers into everyone's favorite horse board mascot.
 
@@ -8,11 +8,11 @@ Features:
 
 -Wandering traders!
 
--Abominable Pumpkin Zombies based on L&T. (Best with some kind of emmisive texture support.)
+-Seven Pranks Later based Zombies, thanks to L&T. (Best with some kind of emmisive texture support.)
+(With alternative Pumpkin head zombies for a few villager types.)
+-Color Coded Villager Clothing, hopefully still different enough for colorblind people.
 
--Color Coded Villager Clothing, but differing and consistent details that hopefully make them recognizable for the colorblind.
-
--Two unused folders, Pegasi_Disabled and Unicorn_Disabled; made for people who dislike one of my exotic Anon choices.
+-Three unused folders, Pegasi_Disabled, Alicorn_Disabled, and Unicorn_Disabled; made for people who dislike one of my exotic Anon choices. Just delete the villager type you don't like and rename the alternative.
 
 
 
@@ -25,9 +25,7 @@ Types:
     Savanna - Zony, Although I took inspiration mostly from the crazy leg pattern Zonkies can get.
     Snow - Snowpity
     Swamp (Does not have villages in vanilla) - Bats
-    Taiga - Caribou/Reindeer Anon
-
-            (Support for Unemployed(none.png) villagers requires an updated version of MineLP, so older releases might not work properly.)
+    Taiga - Reindeer Anon
 
 Professions:
     Unemployed(None) - None
@@ -50,37 +48,36 @@ Professions:
 
 === To Do ===
 
-Finish Kirin
 Improve Snow Pony and Reindeer Outfits
 Finish Improving Saddle Arabian/Desert Textures
-Add Big Snow Pony as an alternative for Reindeer?
 Better Zony Texture? I tried zebra, but couldn't make zebra anon work in skin form. Suggestions always welcome.
 
 =4= Credits =4=
 
-Some skins take parts from the Community Skin Pack and some are based on the default MineLP villager skins.=
-    Ponytail - Applejack
-    Sweater - Moon Dancer
-    Cleric - Luna, Celestia
-    Butcher - Pinkie
-    Shepard - Rarity
-    Cartographer - Daring Do
-    Fisherman - I think it's a really edited wonderbolt outfit.
-    Various Armor Pieces - Love and Tolerance Texture Pack
+Some skins are kitbashed from parts from the Community Skin Pack and some are based on the default MineLP villager skins.
+
+Silk Rose for the tool for automatically generating zombie villagers themed after 28 pranks later.
 
 =5= Changelog =5=
 
+Filly Pack V.0.07
+More villagers.
+New Zombies based on L&T's system, old pumpkin villagers are now an alternative.
+Piglins Updated to be more obvious, Added Zombie Piglin.
+
 Filly Pack V.0.06
 Oh fuck so much was added.
-
-Filly Pack V0.05- -Added support for unemployed villagers for future updates to MineLP or if you download this custom release -Started Zombie Conversion, Plains and Swamp complete.
+Jungle Kirin and Optional Alternative Anon Types if you dislike some of the race choices.
+Filly Pack V0.05
+Added support for unemployed villagers for future updates to MineLP or if you download this custom release 
+Started Zombie Conversion, Plains and Swamp complete.
 
 Filly Pack V0.04
 
 Work in Progress
-Adds Fillies
-Added Zombies
-Filly Types
+Adds Fillies.
+Added Zombies.
+Filly Types.
 
 Plains: Filly
 Desert: Saddle Arabian Filly
